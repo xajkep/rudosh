@@ -8,6 +8,14 @@ Reach, Upload, Download with SHortener.
  * Python 2.7
  * python-requests
 
+## Usage
+
+~~~sh
+Usage: python rudosh.py -r <url>
+       python rudosh.py -u <file>
+       python rudosh.py -d <url> <output>
+~~~
+
 ## Demo
 
 [![asciicast](https://asciinema.org/a/bhzqmon8b2w6xilktst5fb93p.png)](https://asciinema.org/a/bhzqmon8b2w6xilktst5fb93p)
