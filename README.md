@@ -1,7 +1,7 @@
 # RUDOSH
 Reach, Upload, Download with SHortener.
 
-*rudosh* is a little script to reach the last destination from a shortened URL or to upload/download file using data in shortened URLs.
+**rudosh** is a little script to reach the last destination from a shortened URL or to upload/download file using data in shortened URLs.
 
 ## Requirements
 
